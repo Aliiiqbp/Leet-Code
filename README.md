@@ -1,2 +1,2 @@
 # Leet-Code
-DSA Problems
+Data Structures and Design Algorithms Problems
