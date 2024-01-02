@@ -33,7 +33,7 @@ This repository is a comprehensive guide for preparing for technical interviews,
    - Graph traversal (BFS, DFS).
    - Shortest path algorithms (Dijkstra's, Bellman-Ford).
 
-## Algorithms
+## Design Algorithms
 
 1. **Sorting:**
    - Bubble sort, insertion sort, selection sort.
